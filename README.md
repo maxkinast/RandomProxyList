@@ -4,6 +4,10 @@ This will create an array with 300 IP adresses from ProxyServer arround the Worl
 
 The Proxy's are from https://free-proxy-list.net/
 
+MODULES THAT ARE NEEDED:
+  - BeautifulSoup
+  - requests
+
 
 Parameter:
   
